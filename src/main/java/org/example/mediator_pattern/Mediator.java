@@ -1,4 +1,4 @@
-package org.example;
+package org.example.mediator_pattern;
 
 public interface Mediator {
     void registerAirplane(Airplane airplane);

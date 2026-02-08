@@ -1,4 +1,4 @@
-package org.example;
+package org.example.mediator_pattern;
 
 public class Airplane {
     private String id;

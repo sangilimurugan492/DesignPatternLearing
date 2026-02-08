@@ -1,4 +1,4 @@
-package org.example;
+package org.example.mediator_pattern;
 
 // This class simulates the flight control system, managing airplane takeoff and landing requests through a control tower mediator.
 
